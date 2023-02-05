@@ -7,6 +7,7 @@
 
 ## Details
 * You can review the project with the following gif.
+* HTML,css and JavaScript are used to create the project.
   
 ![](items/project.gif)
 
@@ -15,7 +16,7 @@
 
 ## Installation
 Clone the project.
-> https://github.com/aslihanhasar/my-website.git
+> https://github.com/aslihanhasar/grade-calculator.git
 
 
 ---
