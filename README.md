@@ -7,7 +7,6 @@
 
 ## Details
 * You can review the project with the following gif.
-* HTML,css and JavaScript are used to create the project.
   
 ![](items/project.gif)
 
@@ -43,7 +42,7 @@ code .
 * GitHub: [](https://github.com/aslihanhasar)
 * LinkedIn: [aslıhanhasar](https://www.linkedin.com/in/asl%C4%B1hanhasar
   )
-* You can watch the video for details: [youtube](https://youtu.be/YnD1rSRnxvs)
+* You can watch the video for details: [youtube](https://youtu.be/A-19RT6g1UI)
 ---
 
 ## Contributing
